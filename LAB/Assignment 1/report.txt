@@ -1,0 +1,13 @@
+Info: Output directory 'C:\Users\Ibrahim Shbat\Documents\aya\stm32\lab_assignment 1' created.
+Plotted to 'C:\Users\Ibrahim Shbat\Documents\aya\stm32\lab_assignment 1\stm32.pdf'.
+
+Info: Done.
+Plotted to 'C:\Users\Ibrahim Shbat\Documents\aya\stm32\lab_assignment 1\stm32.pdf'.
+
+Info: Done.
+Plotted to 'C:\Users\Ibrahim Shbat\Documents\aya\stm32\lab_assignment 1\stm32.pdf'.
+
+Info: Done.
+Info: Done.
+Info: Done.
+Info: Done.
